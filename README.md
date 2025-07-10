@@ -1,4 +1,5 @@
-💼 PayPredict AI: Intelligent B2B Invoice Payment Forecasting & Management System
+# 💼 PayPredict AI: Intelligent B2B Invoice Payment Forecasting & Management System
+
 🧾 Introduction
         In the B2B (Business-to-Business) world, companies operate on credit, where goods or services are delivered and invoices are raised with a set payment due date.              These unpaid invoices fall under Accounts Receivable (AR). While due dates are defined, payments are often delayed, affecting the company’s cash flow and operations.
         To address this challenge, PayPredict AI combines Machine Learning and Full Stack Development to build an intelligent invoice management system that predicts payment         delays and streamlines the AR process.
