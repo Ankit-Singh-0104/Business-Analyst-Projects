@@ -5,7 +5,6 @@
         To address this challenge, PayPredict AI combines Machine Learning and Full Stack Development to build an intelligent invoice management system that predicts payment         delays and streamlines the AR process.
 
   ❓ Problem Statement
-
         The Accounts Receivable department is responsible for:
         Tracking overdue payments,
         Sending reminders to clients,
@@ -13,19 +12,19 @@
         Maintaining healthy cash flow.
         Manual tracking is inefficient and reactive. The need arises for a smart system that can proactively predict when a client is likely to pay and provide tools to              manage invoices efficiently.
 
-🎯 Project Objectives
+  🎯 Project Objectives
       🔍 Predict the expected payment delay category of an invoice at creation.
       🛠️ Develop a full-stack web application to manage, analyze, and visualize invoices.
       📊 Support AR teams with actionable insights and easy-to-use tools.
 
-🔍 Key Features
+  🔍 Key Features
       ✅ AI-Based Payment Delay Prediction using a trained Random Forest Classifier.
       📊 Receivables Dashboard to display and manage invoice records.
       📝 CRUD Functionalities – Add, Edit, Delete invoices.
       🔄 Pagination for seamless navigation of large datasets.
       📈 Visual Analytics to support decision-making.
 
-🔬 Machine Learning Workflow
+  🔬 Machine Learning Workflow
 1. 📊 Exploratory Data Analysis (EDA)
       Analyzed missing values, outliers, and feature distributions.
       Focused on invoice and payment date relationships.
@@ -42,7 +41,7 @@
       Optimized hyperparameters using GridSearchCV.
       Evaluated model using accuracy, precision, recall, and F1-score.
 
-💡 Technology Stack
+  💡 Technology Stack
 ⚙️ Machine Learning
       Python, Jupyter Notebook
       Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
@@ -56,7 +55,7 @@
       JDBC (Database Connectivity)
       MySQL (RDBMS)
 
-🧰 Tools & IDEs
+  🧰 Tools & IDEs
       Eclipse IDE
       Apache Tomcat Server
       SQLYog (for MySQL management)
